@@ -1,0 +1,16 @@
+{
+  "name": "fastify-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "got": "^12.1.0"
+  }
+}
